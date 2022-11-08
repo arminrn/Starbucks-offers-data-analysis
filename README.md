@@ -24,6 +24,7 @@ sklearn.neighbors/
 # Files
 
 Starbucks_Capstone_notebook.ipynb: which is the code that has been written for this project
+
 Data: all the data related to this project
 
 # Data
