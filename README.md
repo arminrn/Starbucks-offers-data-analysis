@@ -4,6 +4,22 @@
 
 # Libraries
 
+pandas
+numpy
+math
+json
+matplotlib
+seaborn
+sklearn.model_selection (train_test_split module)
+sklearn.preprocessing (StandardScaler )
+tensorflow
+keras
+sklearn.neighbors
+sklearn.metrics
+sklearn.neural_network
+sklearn.linear_model
+sklearn.neighbors
+
 # Files
 
 
